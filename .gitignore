@@ -1,0 +1,9 @@
+/node_modules
+
+ormconfig.json
+Dockerfie
+docker-compose.yml
+Anotações.md
+Dockerfile
+
+tmp/*
